@@ -22,5 +22,6 @@
 	
 	<mappers>
 		<mapper resource="sql/A_Stadium_Mapper.xml"></mapper>
+		<mapper resource="sql/B_Stadium_Mapper.xml"></mapper>
 	</mappers>
 </configuration>
